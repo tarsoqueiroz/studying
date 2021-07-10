@@ -7,3 +7,8 @@ Agentless architecture
 * OpenSSH
 * WinRM
 
+## Hands-on Ansible
+
+Live lessons course from Oreilly. This course is teached by Sander van Vugt.
+
+* `https://github.com/sandervanvugt/handson-ansible`
